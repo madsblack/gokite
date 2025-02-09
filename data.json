@@ -1,27 +1,7 @@
 [
   {
     "agent_id": "deployment-hlsy5tjcguvea2aqgplixjjg",
-    "x_token": "v2:m6x6v1uwa5N7JJYE4yDNJfsgkFFExbkUS95aUOFCeTEnaYiBKhop2vUfu8cDYXLnxTz-KgD-ioPrkL4kXHO_JjtRBmods5j3QdysI60DsIyKFxxNUufdrvXz0SMvdJxSukjpw1rBhCO7UjK3HOQ2vtjZN_5_D7HF_ZFq8nbM4",
-    "wallet": "0x3270b65256dd6c90626301bd6f685f4ab10e3315"
-  },
-  {
-    "agent_id": "deployment-hlsy5tjcguvea2aqgplixjjg",
-    "x_token": "v2:m6xbsz9m0BQCkBnwcUDNOFlkWxBrpO_Wto4sisz3-X2hFRhenkbqInVCjgykQPxIGM3cjcjMmxAG65IUlFE0MWTNmLVz8i9v-c8QVOPS3w5ZKfKhn7jXIJ2LZeCP9bGiJw2m3Og4bwnxyT2188SUW3gWNrLeQUlVDWvPA18Q0",
-    "wallet": "0x44cfd83551dd74450ef7eb43275d84c023b7e18d"
-  },
-  {
-    "agent_id": "deployment-hlsy5tjcguvea2aqgplixjjg",
-    "x_token": "v2:m6xbulofnkkq8nH2ZbDMNChYtSvuFH288CzM34rFmNrURKyjCQfiS_cze1HjVnUd_c1YnPnxydX_FCukJN6_W9R4LL3XLmY-o27IPO_vyWA7iLHE5nKc0vUh3-ep-rL1ce5Rrmqt7IdaGR9Fpo5A7WF8eFPfWqTOua",
-    "wallet": "0xA29077E70969cF1875887aa4097EB72c1721Ed88"
-  },
-  {
-    "agent_id": "deployment-hlsy5tjcguvea2aqgplixjjg",
-    "x_token": "v2:m6xbuqabKy7PcQuXiwDGc6uLCt2QayI4HSiBIJRsV9Qm-USekFsDmBNL3sy_tZKVepT4TwKQG7Y1NyFZaLgt2WJ_NZnao31m-hEhSIavb8OhT0kb_AQ8mjRyY9degndILQfmqrj7cXOTK0COXlH-LzNzfEuuNBakCd0qxauaIuL7Y",
-    "wallet": "0xCd87C410AA2679D3f82BDd7a90FE01c18b2FabAf"
-  },
-  {
-    "agent_id": "deployment-hlsy5tjcguvea2aqgplixjjg",
-    "x_token": "v2:m6xbunu5dSV0KSlf1ZDCdy6wWCiDo-XeUOqf-8fVZttsPkzcrvVMd8RvAzV1QDHW2pFIJdp1pRJA5hY2sqp7k_etZbQnH0R52QWZOAzBKjeMZ9rQpV57JmURqb1fyf-KP0toCZ0UtqSpO_lPbb9hU1bL__sYNiRT6z",
-    "wallet": "0x958991B7d52bb870268ffa33bdCB3FbDe1C5eAFE"
+    "x_token": "",
+    "wallet": ""
   }
 ]
