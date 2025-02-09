@@ -194,7 +194,7 @@ async function report(questions_random,wallet) {
 function printHeader() {
   const line = "=".repeat(50); // Create a line of 50 "=" characters
   const title = "Chat Daily GOKITE";
-  const createdBy = "Bot created by: https://t.me/airdropwithmeh";
+  const createdBy = "Bot created by: https://t.me/madsilver17";
 
   // Calculate the padding needed to center the title and createdBy
   const totalWidth = 50;
