@@ -5,8 +5,8 @@ The scripts automate chat.Chat close after dailyexp 200 or interactions 200, Sup
 # REGISTER
 Register here : [GOKITE REGISTER](https://testnet.gokite.ai?r=hRnamKVb)
 # FILES
-Fill it```data.txt``` eg. wallet and x_token, don't change agent_id
-can you get x_token below :
+Fill it```data.txt``` eg. wallet and x_token, don't change agent_id.
+Can you get x_token see the picture:
 ![alt text](https://github.com/madsblack/gokite/blob/master/img/aws.png?raw=true)
 
 ## Installation
