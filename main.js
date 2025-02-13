@@ -241,7 +241,7 @@ async function execute() {
 
     // Konversi string JSON menjadi array objek
     const jsonData = JSON.parse(data);
-
+    interactions_old =0;
     for (const item of jsonData) {
       while (true) {
         let questions_random = questions[getRandomInt(0, questions.length - 1)];
@@ -252,7 +252,10 @@ async function execute() {
         let dailyAgentActionsXp =  await status(item.x_token);
 
        let interactions= await user(item.wallet);
-        if (dailyAgentActionsXp == 200 || interactions == 200) {
+       if (interactions_old == 0) {
+        interactions_old = interactions;
+       }
+        if (dailyAgentActionsXp == 200 || (interactions_old+200) == interactions) {
             console.log( chalk.green(`Daily Complete untuk agent_id: ${item.agent_id}`));
           break;
         }
